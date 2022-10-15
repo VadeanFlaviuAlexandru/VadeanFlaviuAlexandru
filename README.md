@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student in my last year.<br>🌱 I’m currently learning to be a full stack developer. <br>👯 If you think I can collaborate with you, let's talk!<br>🤝 I’m always looking for opportunities.<br>💬 Ask me anything!
+🔭 I’m currently a student in my last year.<br>🌱 I’m learning to be a full stack developer. <br>👯 If you think I can collaborate with you, let's talk!<br>🤝 I’m always looking for opportunities.<br>💬 Ask me anything!
 
 
 ## 🌐 Socials:
