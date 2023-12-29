@@ -14,7 +14,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />(TypeScript)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />(JavaScript)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />(React)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50"/>(React Redux and Router) <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_bS1dmNu--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bohilxedfl6ijlltfyeq.png" width="80"/>(React Router) <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="50"/>(Next.js)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>(Sass)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50"/>(Material UI)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>(Git)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>(Java)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>(Spring boot)
-<img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="50"/>(Swagger)
+<img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="50"/>(Swagger) <br>
 <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width="50"/>(Postman)
 
 <br>
