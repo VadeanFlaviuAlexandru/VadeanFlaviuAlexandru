@@ -1,13 +1,28 @@
-# ☕ About Me:
-👨‍🎓 I’m currently a student in my last year.<br>🌱 I’m learning to be a Full Stack Web Developer.<br>🤵 If you think I can collaborate with you, let's talk!<br>🤝 I’m always looking for opportunities.<br>💬 Ask me anything!
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">  
+    <img src="https://github.com/VadeanFlaviuAlexandru/VadeanFlaviuAlexandru/assets/103831098/21bd7020-48bc-4ecf-bba7-de0d7e089c9e" alt="duck-with-coffee" width="200" style="align-self: center;">
+    <h1 align="center">Hello hello ☕</h1>
+</div>
 
+<h3>👨‍🎓 I graduated the Faculty of Mathematics and Computer Science in English at Babes-Bolyai University.<br></h3>
+<h3>📚 I like building full-stack web applications.<br></h3>
+<h3>💼 But you can find out more on my <a href="https://portfoliovadean.netlify.app/" target="_blank">portfolio</a>.</h3>
+<h3>🥂 Or let's connect on <a href="https://www.linkedin.com/in/alexvad/" target="_blank">LinkedIn</a>.</h3>
 
-## 📭 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vadeanaleks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexvad) 
+##
 
-# 📚 Proficient with:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📘 Familiar with:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VadeanFlaviuAlexandru&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<h4 align="center">What I'm very comfortable with</h4>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />(TypeScript)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />(JavaScript)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />(React)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50"/>(React Redux and Router) <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_bS1dmNu--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bohilxedfl6ijlltfyeq.png" width="80"/>(React Router) <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="50"/>(Next.js)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>(Sass)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50"/>(Material UI)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>(Git)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>(Java)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>(Spring boot)
+<img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="50"/>(Swagger)
+<img src="https://logowik.com/content/uploads/images/postman-api-platform6643.logowik.com.webp" width="80"/>(Postman)
+
+<br>
+<br>
+<h4 align="center">What I've worked with in the past</h4>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="50"/>(Angular)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>(Tailwind)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>(Python)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="50"/>(PostgreSQL)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50"/>(Docker) <img src="https://logowik.com/content/uploads/images/rabbitmq8610.jpg" width="70"/>(RabbitMQ)
+ <img src="https://miro.medium.com/v2/resize:fit:881/1*J8sjpKQJswCKiPUYVefbgQ.jpeg" width="70"/>(JUnit 5)
+ <img src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" width="100"/>(Mockito)
+ <img src="https://miro.medium.com/v2/resize:fit:1358/0*rXJi7o7A3pAJ8X_L.png" width="100"/>(LangChain)
+ <img src="https://t3.ftcdn.net/jpg/06/14/01/52/360_F_614015247_EWZHvC6AAOsaIOepakhyJvMqUu5tpLfY.jpg" width="100"/>(Large Language Model)
