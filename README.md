@@ -5,7 +5,7 @@
 
 <h3>👨‍🎓 I graduated the Faculty of Mathematics and Computer Science in English at Babes-Bolyai University.<br></h3>
 <h3>📚 I like building full-stack web applications.<br></h3>
-<h3>💼 But you can find out more on my <a href="https://portfoliovadean.netlify.app/" target="_blank">portfolio</a>.</h3>
+<h3>💼 But you can find out more on my <a href="https://vadean-alex-portfolio.netlify.app" target="_blank">portfolio</a>.</h3>
 <h3>🥂 Or let's connect on <a href="https://www.linkedin.com/in/alexvad/" target="_blank">LinkedIn</a>.</h3>
 
 ##
