@@ -24,6 +24,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="50"/>(Angular)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>(Tailwind)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="50"/>(PostgreSQL)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50"/>(Docker) <img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" width="50"/>(RabbitMQ)
  <img src="https://miro.medium.com/v2/resize:fit:881/1*J8sjpKQJswCKiPUYVefbgQ.jpeg" width="70"/>(JUnit 5)
  <br>
- <img src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" width="120"/>(Mockito)
+ <img src="https://miro.medium.com/v2/resize:fit:800/0*SB_TBftIx7tBj6_0.png" width="120"/>(Mockito)
 <img src="https://media.licdn.com/dms/image/D4E12AQHQP9J275Q_uA/article-cover_image-shrink_600_2000/0/1700940849777?e=2147483647&v=beta&t=m0HEQrukIOqU4fe1K9M19PaHq3UbvEubLzeIH1shcSc" width="100"/>(LangChain)
  <img src="https://s9i7q5a6.rocketcdn.me/wp-content/uploads/llms_800x800.png" width="100"/>(Large Language Model)
